@@ -1,0 +1,10 @@
+This project contains simple maven skeleton projects.
+The projects are as simple as possible.
+
+The following skeletons can be found under /guice:
+
+* jerseyGuice    -Jersey with Guice-Servlet and Guice (JSR-330)
+* simpleGuice    -Guice-Servlet and Guice (JSR-330)
+* filteringGuice -Guice-Servlet and Guice with filtering (JSR-330)
+
+
