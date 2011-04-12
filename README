@@ -7,4 +7,9 @@ The following skeletons can be found under /guice:
 * simpleGuice    -Guice-Servlet and Guice (JSR-330)
 * filteringGuice -Guice-Servlet and Guice with filtering (JSR-330)
 
+To try them out:
+
+mvn jetty:run
+http://localhost:8080/hello
+
 
